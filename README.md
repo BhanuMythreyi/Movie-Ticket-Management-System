@@ -2,7 +2,7 @@
 
 This is an acedemic project, made by team of 4 people
 We created a database for Movie Ticket Management System with entities such as
-. Customer
+. Customer </br>
 . Movie
 . Theatre
 . Payment
